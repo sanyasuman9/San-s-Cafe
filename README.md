@@ -27,4 +27,4 @@ This project is designed to demonstrate clean layout, good use of typography usi
 - CSS3
 
 ## Getting Started:
-   git clone https://github.com/sanyasuman9/sans-s-cafe.git
+   git clone https://sanyasuman9.github.io/San-s-Cafe/
